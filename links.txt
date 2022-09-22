@@ -1,5 +1,7 @@
     Colors
-Body Background Color: #EA40F6
+Body Background Color: #EAF0F6
 Font Color: #23496D
+Footer Font Color 1: #234987
+Footer Font Color 2: #00A4BD
 Button Color 1: #F0047F
 Button Color 2: #F5980D
